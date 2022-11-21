@@ -1,5 +1,12 @@
 package com.aprendendo.calculadora.service;
 
 public class CalculadoraService {
-        private String teste;
+
+        public static String teste(){
+
+                System.out.println("ola");
+
+                return null;
+        }
+
 }
